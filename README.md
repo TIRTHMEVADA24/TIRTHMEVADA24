@@ -12,5 +12,8 @@ I'm a passionate Full Stack Web Developer from India 🇮🇳
   tirthmevada240106@gmail.com
 - All of my projects are available at:
    https://github.com/TIRTHMEVADA24
--📊 Most Used Languages
+  
+---
+
+###📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHMEVADA24&layout=compact&theme=tokyonight)
