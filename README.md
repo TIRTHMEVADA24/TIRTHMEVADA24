@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**TIRTHMEVADA24/TIRTHMEVADA24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+I'm a passionate Full Stack Web Developer from India 🇮🇳
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning ** React, and API Integration**
+- 💼 Building a **Mini-dragon-game** as an intern project
+- 🛠️ Tech Stack:  
+  HTML CSS JavaScript React  MySQL Python
+- 💡 Exploring **open source** and improving my problem-solving skills
+- 📫 How to reach me:
+   tirthmevada240106@gmail.com
+- All of my projects are available at:
+   https://github.com/TIRTHMEVADA24
